@@ -7,4 +7,7 @@ Intructions on how to use:
 3) Save/Apply the changes and test the effect of the script.
 
 
-~Vanz J Tutorials
+~ Vanz J Tutorials
+  * https://www.youtube.com/c/VanzJTutorials
+  * https://www.facebook.com/VanZJOfficial
+  * https://www.facebook.com/groups/507708529922820/
