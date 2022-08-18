@@ -1,0 +1,13 @@
+#MikroTikScript
+#VanzJTutorials
+#https://www.youtube.com/c/VanzJTutorials
+#https://www.facebook.com/VanZJOfficial
+
+
+#script-start
+
+:local limit [/ip hotspot user get [/ip hotspot user find where name="$user"] limit-uptime];
+:local uptime [/ip hotspot user get [/ip hotspot user find where name="$user"] uptime];
+:if ($limit <= $uptime) do={/ip hotspot user remove $user;}
+
+#script-end
